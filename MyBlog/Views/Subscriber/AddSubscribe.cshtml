@@ -1,0 +1,15 @@
+﻿<div class="tech-btm">
+    <img src="~/MyBlogTema/images/banner1.jpg" class="img-fluid" alt="">
+
+    <p>Stay up to date with all blogs</p>
+    <form href="/Blog/Index" action="/Subscriber/AddSubscribe" method="post">
+        <input type="email" placeholder="Email" required="" name="Email">
+        <input type="submit" value="Subscribe" id="btn1">
+    </form>
+</div>
+<br />
+<script>
+        $('#btn1').click(function () {
+            swal("Subscription successful");
+        });
+</script>

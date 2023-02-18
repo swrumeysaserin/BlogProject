@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MyBlog.Entities.Concrate.Comment>
+
+<div class="comment-top">
+    <h4>Comments</h4>
+    @foreach (var item in Model)
+    {
+        <div class="media">
+            <img src="~/MyBlogTema/images/Nehirim.jpeg" alt="" class="img-fluid" width="70" height="70" />
+            <div class="media-body">
+                <h5 class="mt-0">@item.UserName</h5>
+                <p>
+                    @item.Title + @item.Content
+                </p>
+            </div>
+        </div>
+    }
+</div>

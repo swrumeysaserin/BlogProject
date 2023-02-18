@@ -1,0 +1,12 @@
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\bin\Debug\net5.0\MyBlog.Core.deps.json
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\bin\Debug\net5.0\MyBlog.Core.dll
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\bin\Debug\net5.0\ref\MyBlog.Core.dll
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\bin\Debug\net5.0\MyBlog.Core.pdb
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.AssemblyInfoInputs.cache
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.AssemblyInfo.cs
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.csproj.CoreCompileInputs.cache
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.dll
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\ref\MyBlog.Core.dll
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.pdb
+C:\PROJELER\Asp.NetCoreExample\MyBlog\MyBlog.Core\obj\Debug\net5.0\MyBlog.Core.csproj.AssemblyReference.cache

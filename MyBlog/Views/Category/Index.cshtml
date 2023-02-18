@@ -1,0 +1,27 @@
+﻿@using MyBlog.Entities.Concrate
+@model List<Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>NAME</th>
+        <th>DETAIL</th>
+        <th>STATUS</th>
+        <th>UPDATE</th>
+        <th>DELETE</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Detail</td>
+            <td>@item.Status</td>
+            <td><a href="#" class="btn btn-success">UPDATE</a></td>
+            <td><a href="#" class="btn btn-danger">DELETE</a></td>
+        </tr>
+    }
+</table>
